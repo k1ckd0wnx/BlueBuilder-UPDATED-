@@ -1,0 +1,15 @@
+name: BlueBuilder
+main: BlueBuilder\BlueBuilder
+version: 1.1
+api: [3.0.0, 3.3.7, 4.0.0]
+author: moebius2033 AKA sukaiagenji #edited by TurtleSh0ck\MrHuskyy
+commands:
+  bluecopy:
+    description: "Allows you to copy areas to blueprints."
+    usage: "/bluecopy <pos1/pos2/create> <name>"
+  blueprint:
+    description: "Allows you to place a blueprint."
+    usage: "/blueprint <start/build> <name>"
+  bluebuilder:
+    description: "Prints information about BlueBuilder, or lists available blueprints."
+    usage: "/bluebuilder <list>"
